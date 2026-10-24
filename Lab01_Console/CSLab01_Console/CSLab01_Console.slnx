@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="../Baitap2/Baitap2.csproj" />
+  <Project Path="../Baitap3/Baitap3.csproj" />
+  <Project Path="../Baitap4/Baitap4.csproj" />
+  <Project Path="CSLab01_Console.csproj" />
+</Solution>
