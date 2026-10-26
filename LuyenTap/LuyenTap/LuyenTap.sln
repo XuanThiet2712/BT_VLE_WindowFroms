@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35825.156 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BaiTap1", "BaiTap1\BaiTap1.csproj", "{48610F53-D56D-4779-B228-967233DC2E9E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BaiTap2", "BaiTap2\BaiTap2.csproj", "{15696830-36FC-459D-8116-CD2AF610A8BE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Baitap3", "Baitap3\Baitap3.csproj", "{4EB2FD24-A041-4613-BB82-464F78429206}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{48610F53-D56D-4779-B228-967233DC2E9E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{48610F53-D56D-4779-B228-967233DC2E9E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{48610F53-D56D-4779-B228-967233DC2E9E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{48610F53-D56D-4779-B228-967233DC2E9E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{15696830-36FC-459D-8116-CD2AF610A8BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{15696830-36FC-459D-8116-CD2AF610A8BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{15696830-36FC-459D-8116-CD2AF610A8BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{15696830-36FC-459D-8116-CD2AF610A8BE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4EB2FD24-A041-4613-BB82-464F78429206}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4EB2FD24-A041-4613-BB82-464F78429206}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4EB2FD24-A041-4613-BB82-464F78429206}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4EB2FD24-A041-4613-BB82-464F78429206}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BE4F397E-516C-4AD0-B2EA-C5719D98DB62}
+	EndGlobalSection
+EndGlobal
