@@ -20,16 +20,8 @@ namespace Baitap4
 
         private void AnHien(object sender, EventArgs e)
         {
-            if (chkKhach.Checked)
-            {
-                lblMatKhau.Hide();
-                txtMatKhau.Hide();
-            }
-            else
-            {
-                lblMatKhau.Show();
-                txtMatKhau.Show();
-            }
+            lblMatKhau.Visible = !chkKhach.Checked;
+            txtMatKhau.Visible = !chkKhach.Checked;
         }
 
         private void Form1_Load(object sender, EventArgs e)
