@@ -17,7 +17,7 @@ namespace Baitap3
             InitializeComponent();
             txtBox.TextChanged += CapNhatNut;
             chkBox.CheckedChanged += CapNhatNut;
-          
+            btnDongY.Click += btnDongY_Click;
         }
         
         private void CapNhatNut(object sender, EventArgs e)
