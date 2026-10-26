@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Baitap6", "Baitap6\Baitap6.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThuocTinhControls", "ThuocTinhControls\ThuocTinhControls.csproj", "{E5F83A64-37E1-4FBE-ABBD-B9E3BD4759F3}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bai1", "Bai1\Bai1.csproj", "{53EE409F-69CA-4583-A5AE-B8DBE609AFC5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{E5F83A64-37E1-4FBE-ABBD-B9E3BD4759F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E5F83A64-37E1-4FBE-ABBD-B9E3BD4759F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E5F83A64-37E1-4FBE-ABBD-B9E3BD4759F3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{53EE409F-69CA-4583-A5AE-B8DBE609AFC5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{53EE409F-69CA-4583-A5AE-B8DBE609AFC5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{53EE409F-69CA-4583-A5AE-B8DBE609AFC5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{53EE409F-69CA-4583-A5AE-B8DBE609AFC5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
