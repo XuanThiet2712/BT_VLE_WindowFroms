@@ -44,7 +44,7 @@ namespace Bai2
                 }
             };
 
-            pictureBox4.LoadAsync("https://picsum.photos/200");
+            pictureBox4.LoadAsync("https://tse1.mm.bing.net/th/id/OIP.gZqdXb7MMLu0srzqN8PnPwHaP0?r=0&pid=Api&h=220&P=0");
 
             cboLayout.DataSource = Enum.GetValues(typeof(ImageLayout));
 
